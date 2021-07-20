@@ -27,4 +27,11 @@ public class C implements A,B {
 		a.tc2();
 		a.tc3();
 	}
+	private void sysout() {
+		System.out.println("git c");
+		System.out.println("git c");
+		System.out.println("git c");
+		System.out.println("git c");
+
+	}
 }
