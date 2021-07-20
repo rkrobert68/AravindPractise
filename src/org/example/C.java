@@ -32,6 +32,10 @@ public class C implements A,B {
 		System.out.println("git c");
 		System.out.println("git c");
 		System.out.println("git c");
+		System.out.println("git c1");
+		System.out.println("git c1");
+		System.out.println("git c1");
+		System.out.println("git c1");
 
 	}
 }
